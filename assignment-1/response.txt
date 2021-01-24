@@ -1,0 +1,16 @@
+ # Assignemnt-2 response
+ 
+ 1. How is the world wide web different than the internet?
+2. Briefly describe how the internet works.
+3. What is a directory, and what is its relationship to files?
+4. How will VCS benefit you?
+5. Take a screenshot anytime while working on your homework.
+6. What is your favorite kind of art?
+7. Rename this screenshot using proper naming conventions, and upload it to your assignme
+
+1. The web are all of the webs of sites and linkes, and the internet are the computers that host them. 
+2. Computeres communicate information to eachother through paths
+3. A directory is like a folder, or a series of folders within a folder (so a path could be written for them like web-site/images/portraits or something. Files go into directories. 
+4. VCS will allow me to go back and look at previous versions of my website or revert to them. 
+5. ok. 
+6. I'm a writer (nonfiction and spoken word poetry), i give little tattoos, i take pictures, and I sing. 
