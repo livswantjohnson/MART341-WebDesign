@@ -1,0 +1,8 @@
+1. Provide three websites that you enjoy visiting?
+1x, apple, instagram
+2. What is the relationship between an IP address and the DNS?
+the DNS looks up the IP address associated with a domain name
+3. What is a cookie?
+a file stored on your computer that helps websites recognize you
+4. List the three essential parts of a URL.
+protocol, domain name, and directory
