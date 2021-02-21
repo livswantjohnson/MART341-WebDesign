@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+  <html lang="en" dir="ltr">
+    <head>
+      <title> </title>
+      <meta charset="UTF-8">
+      <meta name="author" content="Olivia Swant-Johnson">
+      <meta name="description" content="this is the website I'm developing for MART341">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    </head>
+    <body>
+
+      <h1>Cucumber Caprese Salad</h1>
+
+      <img src="images/all-gone.jpg" alt="me holding an empty tuperware of what
+      used to be Cucumber Caprese Salad" width="300">
+
+      <h2>Ingredients</h2>
+        <ul>
+          <li> Cucumber </li>
+          <li> Tomato </li>
+          <li> Basil </li>
+          <li> Mozzerella </li>
+          <li> Garbonzo Beans </li>
+          <li> Balsamic Vineagar </li>
+          <li> Salt and Pepper </li>
+        </ul>
+
+      <h2>Directions</h2>
+        <ol>
+          <li> Chop cucumber, tomato, basil and mozzerella into <i>bite size</i>
+          pieces </li>
+          <li> Open the can of garbanzo beans</li>
+          <li> Drain and Rinse the beans. Phoebe says <q> beans only make you
+          fart if you don't rinse them</q> </li>
+          <li> Mix the salad ingredients in a large bowl </li>
+          <li> Dowse in balsamic vinegar and salt to taste </li>
+          <li> Enjoy! </li>
+
+        <link href="https://belleofthekitchen.com/caprese-chickpea-salad/">
+
+      <h2>Contact Me</h2>
+      
+    </body>
+  </html>
