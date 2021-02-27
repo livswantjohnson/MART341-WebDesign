@@ -13,4 +13,4 @@ A button input could allow users to submit, upload or be redirected.
 3. I struggled a little more on this one. I didn't spend as much time doing the reading initially and did it more
 alongside the homework assignment, which i don't think was the best way of doing it, but I did get it done and i
 think i understand everything. I was most confused about the methods with labeling, and with the differences between
-name and id. Also, I couldn't get a border around my table. 
+name and id attributes. Also, I couldn't get a border around my table, not sure why. 
