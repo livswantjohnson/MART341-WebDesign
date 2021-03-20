@@ -1,5 +1,9 @@
 .body-text { color: #002947; font-family: Georgia;
-          background: rgb(250,237,203,0.7);
+          background: rgb(250,237,203,0.7); /* here i had to use rgb
+          instead of hex so that i could set the opacity of only the background
+          color and not the images and text- so the 0.7 indicates that its at 70%
+          opacity, normally an rgb color only has 3 values so the 4th is always opacity
+          learned a new thing */
           border-style: solid;
           border-width: 6px;
           border-color: #e23000;
