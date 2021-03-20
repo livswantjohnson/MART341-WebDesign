@@ -3,7 +3,8 @@
           border-style: solid;
           border-width: 6px;
           border-color: #e23000;
-          text-align: center;}
+          text-align: center;
+        padding: 15px; }
 h1 {color: #e33101;
     font-size: 96px;
     font-family: Georgia;
