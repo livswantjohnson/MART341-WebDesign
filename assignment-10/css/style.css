@@ -1,5 +1,6 @@
 .body-text { color: #002947; font-family: Georgia;
           background: #faedcb;
+          opacity: 66%;
           border-style: solid;
          border-width: 6px;
          border-color: #e23000; }
