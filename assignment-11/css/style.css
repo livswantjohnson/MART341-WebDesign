@@ -8,7 +8,9 @@ h1, .parent {font-family: 'Playfair Display SC', serif;
     text-align: center;}
 
 h2, .child-1 {font-family: 'Playfair Display SC', serif;
-      font-size: 75%}
+      font-size: 75%;
+      text-align: center}
 
-.child-2 {font-family: 'M PLUS 1p', sans-serif;
-           font-size: 50%}
+pre, .child-2 {font-family: 'M PLUS 1p', sans-serif;
+           font-size: 50%;
+           text-align: center}
