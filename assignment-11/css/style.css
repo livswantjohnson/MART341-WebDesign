@@ -3,12 +3,12 @@
 
 
 h1, .parent {font-family: 'Playfair Display SC', serif;
-    font-size: 96px
+    font-size: 130px;
     font-style: italic;
     text-align: center;}
 
 h2, .child-1 {font-family: 'Playfair Display SC', serif;
-      font-size: 75%;
+      font-size: 90%;
       text-align: center}
 
 pre, .child-2 {font-family: 'M PLUS 1p', sans-serif;
