@@ -3,7 +3,7 @@
 
 html {font-size: 96px}
 
-.text {background-color: #d5b6f2}
+.text {background-color: #d5b6f2, 50%;}
 
 h1, .parent {font-family: 'Playfair Display SC', Georgia, serif;
     font-size: 100%;
