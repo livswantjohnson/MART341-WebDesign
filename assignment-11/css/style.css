@@ -25,6 +25,7 @@ p, .child-2 {font-family: 'M PLUS 1p', Helvetica, sans-serif;
            text-align: center}
 
 p::first-letter {color: green;
+                font-family: 'Playfair Display SC', Georgia, serif;
                  font-size: 3em;
                  vertical-align: middle;
                font-style: italic;}
