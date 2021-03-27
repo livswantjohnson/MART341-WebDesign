@@ -5,20 +5,26 @@ html {font-size: 96px}
 
 .text {background-color: #d5b6f2}
 
-h1, .parent {font-family: 'Playfair Display SC', serif;
+h1, .parent {font-family: 'Playfair Display SC', Georgia, serif;
     font-size: 96px;
     font-style: italic;
     text-align: center;}
 
 
-h2, .child-1 {font-family: 'Playfair Display SC', serif;
+h2, .child-1 {font-family: 'Playfair Display SC', Georgia, serif;
       font-size: .75em;
-      text-align: center}
+      text-align: center;
+      font-kerning: normal;}
 
-h3, .child-3 {font-family: 'M PLUS 1p', sans-serif;
+h3, .child-3 {font-family: 'M PLUS 1p', Helvetica, sans-serif;
               font-size: .6em;
               text-align: center}
 
-pre, .child-2 {font-family: 'M PLUS 1p', sans-serif;
+p, .child-2 {font-family: 'M PLUS 1p', Helvetica, sans-serif;
            font-size: .4em;
            text-align: center}
+
+p::first-letter {color: green;
+                 font-size: .65em;
+                 vertical-align: middle;}
+                 
