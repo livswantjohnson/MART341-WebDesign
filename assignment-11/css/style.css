@@ -30,6 +30,4 @@ p::first-letter {color: green;
                  vertical-align: middle;
                font-style: italic;}
 
-.link:hover {color: green;}
-
-br {font-size: .6em}
+a:hover {color: green;}
