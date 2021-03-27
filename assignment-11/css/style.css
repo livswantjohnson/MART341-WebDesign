@@ -6,7 +6,7 @@ html {font-size: 96px}
 .text {background-color: #d5b6f2}
 
 h1, .parent {font-family: 'Playfair Display SC', Georgia, serif;
-    font-size: 96px;
+    font-size: 100%;
     font-style: italic;
     text-align: center;}
 
@@ -29,3 +29,5 @@ p::first-letter {color: green;
                  font-size: 3em;
                  vertical-align: middle;
                font-style: italic;}
+
+.link:hover {color: green;}
