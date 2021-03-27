@@ -26,4 +26,5 @@ p, .child-2 {font-family: 'M PLUS 1p', Helvetica, sans-serif;
 
 p::first-letter {color: green;
                  font-size: 3em;
-                 vertical-align: middle;}
+                 vertical-align: middle;
+               font-style: italic;}
