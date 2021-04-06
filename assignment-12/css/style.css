@@ -25,4 +25,7 @@ h1 {font-size: 100%;
     display: inline;
     float: right ;}
 
-body-text:hover {background-color: rgb(194, 74, 66)}
+.body-text:hover {background-color: rgb(194, 74, 66)}
+
+.image:hover {width: 200%}
+194, 74, 66
