@@ -13,16 +13,14 @@ html {font-size: 75px }
   display: inline;
   position:relative ;
   float: left ;
-  text-align: justify;
-   z-index: 2}
+  text-align: justify;}
 
 h1 {font-size: 100%;
     text-align: center;}
 
-.image {width: 100% ;
+.image {width: 33% ;
     border: ;
     padding: 10px;
     margin: auto ;
     display: inline;
-    float: right ;
-    z-index: 1}
+    float: right ;}
