@@ -12,13 +12,15 @@ html {font-size: 75px }
   overflow: scroll;
   display: inline;
   position:relative ;
-  float: left ;}
+  float: left ;
+  text-align: justify;}
 
-h1 {font-size: 100%}
+h1 {font-size: 100%;
+    text-align: center;}
 
 .image {width: 33% ;
     border: ;
-    padding: ;
-    margin: ;
-    display: ;
+    padding: 10px;
+    margin: auto ;
+    display: inline;
     float: right ;}
