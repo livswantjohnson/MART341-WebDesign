@@ -27,5 +27,4 @@ h1 {font-size: 100%;
 
 .body-text:hover {background-color: rgb(194, 74, 66)}
 
-.image:hover {width: 200%}
-194, 74, 66
+.image:hover {image-resolution: from-image;}
