@@ -1,0 +1,24 @@
+
+html {font-size: 75px }
+
+.body-text {width: 66% ;
+  height: 300px ;
+  border: 20px ;
+  padding: 10px ;
+  margin: auto ;
+  background-color: rgb(235, 64, 52);
+  font-size: 60%;
+  color: rgb(255, 226, 224);
+  overflow: scroll;
+  display: inline;
+  position:relative ;
+  float: left ;}
+
+h1 {font-size: 100%}
+
+.image {width: 33% ;
+    border: ;
+    padding: ;
+    margin: ;
+    display: ;
+    float: right ;}
