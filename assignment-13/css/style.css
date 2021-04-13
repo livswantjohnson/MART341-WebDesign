@@ -1,4 +1,5 @@
-.navbar {text-align: center;}
+.navbar {text-align: center;
+         position: sticky;}
 
 .menu-item {
     margin: auto;
