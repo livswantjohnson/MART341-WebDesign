@@ -1,0 +1,17 @@
+.navbar {}
+
+.menu-item {
+    margin: auto;
+    padding: 0.25em;
+    min-width: 75px;
+    font-size: 10pt;
+    color: #fff;
+    background-color: goldenrod;
+    line-height: 2.1em;
+     display: inline-block;
+}
+
+.menu-item:hover {
+    background-color: gold;
+    color: #333;
+}
