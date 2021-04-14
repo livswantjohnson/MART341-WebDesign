@@ -4,7 +4,7 @@ html {font-size: 75px }
 
 .background-image {background: url(./images/geese.jpg);
   background-repeat: no-repeat;
-  background-size: auto;}
+  background-size: contain;}
 
 .body-text  {width: 60% ;
              height: 300px ;
