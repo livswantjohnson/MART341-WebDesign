@@ -12,7 +12,7 @@ html {font-size: 75px;
              border: 6px ;
              padding: 20px ;
              margin: inherit ;
-             background-color: rgb(235, 64, 52);
+             background-color: rgb(195, 128, 1);
              font-size: 60%;
              color: rgb(255, 226, 224);
              overflow: scroll;
@@ -53,14 +53,14 @@ p {font-size: 60%;
     min-width: 75px;
     font-size: 10pt;
     color: #fff;
-    background-color: goldenrod;
+    background-color: rgb(195, 128, 1);
     line-height: 2.1em;
      display: inline-block;
 }
 
 .menu-item:hover {
-    background-color: gold;
-    color: #333;
+    background-color: rgb(255, 226, 224);
+    color: rgb(195, 128, 1);
 }
 
 .services-text {font-family: 'Fira Sans', 'Helvetica', sans-serif;
