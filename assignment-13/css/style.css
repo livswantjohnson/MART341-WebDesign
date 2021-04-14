@@ -41,7 +41,9 @@ p {font-size: 60%;
 
 .navbar {text-align: center;
          position: fixeds;
-         text-transform: uppercase;}
+         text-transform: uppercase;
+         font-family: 'Fira Sans', 'Helvetica', sans-serif;
+          color:rgb(255, 226, 224) }
 
 .menu-item {
     margin: auto;
