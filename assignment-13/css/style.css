@@ -2,6 +2,8 @@ html {font-size: 75px }
 
 @import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@100&family=Montserrat:wght@300&display=swap');
 
+img {max-width: 1024px}
+
 .body-text  {width: 60% ;
              height: 300px ;
              border: 6px ;
