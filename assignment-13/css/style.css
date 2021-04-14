@@ -23,7 +23,8 @@ html {font-size: 75px;
 
 h1 {font-size: 100%;
     color: rgb(255, 226, 224);
-    text-align: center;
+    text-align: justify;
+    display: block;
     font-family: 'Fira Sans', 'Helvetica', sans-serif;
     font-weight: 100;}
 
@@ -34,7 +35,7 @@ p {font-size: 60%;
 
 .image {width:60% ;
         padding: 10px;
-        margin:inherit ;
+        margin: auto ;
         display: inline;
        float: right ;
       z-index: 1}
