@@ -15,7 +15,7 @@ html {font-size: 75px }
              font-size: 60%;
              color: rgb(255, 226, 224);
              overflow: scroll;
-             display: inline-block;
+             display: contents;
             position:relative ;
             float: none;
             text-align: justify;
