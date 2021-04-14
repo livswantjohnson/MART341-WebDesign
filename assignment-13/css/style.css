@@ -17,9 +17,9 @@ html {font-size: 75px }
              overflow: scroll;
              display: contents;
             position:relative ;
-            float: none;
+            float:left;
             text-align: justify;
-            z-index: 2}
+            z-index: 2;}
 
 h1 {font-size: 100%;
     color: rgb(255, 226, 224);
