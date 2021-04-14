@@ -13,8 +13,9 @@ html {font-size: 75px }
              overflow: scroll;
              display: inline;
             position:relative ;
-            float: left ;
-            text-align: justify;}
+            float: right ;
+            text-align: justify;
+            z-index: 2}
 
 h1 {font-size: 100%;
     text-align: center;
@@ -25,6 +26,8 @@ p {font-size: 60%;
    text-align: justify;
    font-family: font-family: 'Montserrat', 'Georgia', sans-serif;}
 
+.background-image {width: 100%;
+                   z-index: 1}
 
 .image {width: 33% ;
         border: ;
