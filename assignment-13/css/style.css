@@ -2,7 +2,9 @@ html {font-size: 75px }
 
 @import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@100&family=Montserrat:wght@300&display=swap');
 
-background-image {max-width: 1024px}
+.background-image-home {background: url(./images/geese.jpg);
+  background-repeat: no-repeat;
+  background-size: auto;}
 
 .body-text  {width: 60% ;
              height: 300px ;
@@ -20,6 +22,7 @@ background-image {max-width: 1024px}
             z-index: 2}
 
 h1 {font-size: 100%;
+    color: rgb(255, 226, 224);
     text-align: center;
     font-family: 'Fira Sans', 'Helvetica', sans-serif;
     font-weight: 100;}
