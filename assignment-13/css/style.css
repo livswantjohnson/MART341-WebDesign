@@ -13,9 +13,9 @@ background-image {max-width: 1024px}
              font-size: 60%;
              color: rgb(255, 226, 224);
              overflow: scroll;
-             display: inline;
+             display: inline-block;
             position:relative ;
-            float: center ;
+            float: none;
             text-align: justify;
             z-index: 2}
 
