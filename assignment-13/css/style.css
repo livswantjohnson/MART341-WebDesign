@@ -7,7 +7,7 @@ html {font-size: 75px;
   background-repeat: no-repeat;
   background-size: contain;}
 
-.body-text  {width: 40% ;
+.body-text  {width: auto ;
              height: 500px ;
              border: 6px ;
              padding: 10px ;
