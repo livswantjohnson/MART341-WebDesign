@@ -6,7 +6,7 @@ html {font-size: 75px }
   background-repeat: no-repeat;
   background-size: contain;}
 
-.body-text  {width: 40% ;
+.body-text  {width: % ;
              height: 300px ;
              border: 6px ;
              padding: 10px ;
@@ -17,7 +17,8 @@ html {font-size: 75px }
              overflow: scroll;
              display: inline;
              position:relative ;
-             text-align: center;}
+             float: left ;
+             text-align:center;}
 
 h1 {font-size: 100%;
     color: rgb(255, 226, 224);
