@@ -6,20 +6,19 @@ html {font-size: 75px }
   background-repeat: no-repeat;
   background-size: contain;}
 
-.body-text  {width: 60% ;
+.body-text  {width: 40% ;
              height: 300px ;
              border: 6px ;
              padding: 10px ;
              margin: auto ;
-             background-color: rgb(235, 64, 52, 80%);
+             background-color: rgb(235, 64, 52);
              font-size: 60%;
              color: rgb(255, 226, 224);
              overflow: scroll;
-             display: contents;
-            position:relative ;
-            float:left;
-            text-align: justify;
-            z-index: 2;}
+             display: inline;
+             position:relative ;
+             float: left ;
+             text-align: center;}
 
 h1 {font-size: 100%;
     color: rgb(255, 226, 224);
