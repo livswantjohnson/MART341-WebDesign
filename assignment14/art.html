@@ -35,7 +35,9 @@
 
    <canvas id="myCanvas" width="200" height="100"></canvas>
     <script type="text/javascript">
-    context.moveTo(145,140);
+    var c = document.getElementById("myCanvas");
+var ctx = c.getContext("2d");
+context.moveTo(145,140);
 context.lineTo(145,140);
 context.lineTo(145,140);
 context.lineTo(145,140);
@@ -86,9 +88,8 @@ context.lineTo(165,188);
 context.lineTo(178,183);
 context.lineTo(195,176);
 context.lineTo(210,169);
-
-    </script>
-
+</script>
+    
 
   </body>
 </html>
