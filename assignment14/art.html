@@ -253,7 +253,16 @@
 
       context.lineTo(203, 189);
       context.stroke();
-      </script>      
-
+      </script>
+<div id="kitchen">
+  <img src="./images/kitchen" alt="">
+</div>
+  <canvas id="myCanvas-5" width="200" height="100"></canvas>
+  <script type="text/javascript">
+  var c = document.getElementById("myCanvas-5");
+var ctx = c.getContext("2d");
+var img = document.getElementById("kitchen");
+ctx.drawImage(img, 10, 10);
+  </script>
   </body>
 </html>
