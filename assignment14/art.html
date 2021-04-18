@@ -33,80 +33,37 @@
    </nav>
    </div>
 
-   <canvas id="myCanvas" width="200" height="100"></canvas>
-    <script type="text/javascript">
-    var c = document.getElementById("myCanvas");
-var ctx = c.getContext("2d");
-myCanvas.lineWidth=4;
-myCanvas.moveTo(181,135);
-myCanvas.lineTo(181,135);
-myCanvas.lineTo(181,135);
-myCanvas.lineTo(181,135);
-myCanvas.lineTo(181,135);
-myCanvas.lineTo(182,134);
-myCanvas.lineTo(182,134);
-myCanvas.lineTo(182,134);
-myCanvas.lineTo(182,134);
-myCanvas.lineTo(182,137);
-myCanvas.lineTo(181,144);
-myCanvas.lineTo(174,170);
-myCanvas.lineTo(170,191);
-myCanvas.lineTo(166,212);
-myCanvas.lineTo(162,231);
-myCanvas.lineTo(158,249);
-myCanvas.lineTo(153,273);
-myCanvas.lineTo(151,284);
-myCanvas.lineTo(149,291);
-myCanvas.lineTo(148,299);
-myCanvas.lineTo(147,311);
-myCanvas.lineTo(147,317);
-myCanvas.lineTo(147,321);
-myCanvas.lineTo(150,323);
-myCanvas.lineTo(153,323);
-myCanvas.lineTo(161,314);
-myCanvas.lineTo(169,302);
-myCanvas.lineTo(181,282);
-myCanvas.lineTo(191,262);
-myCanvas.lineTo(202,239);
-myCanvas.lineTo(207,230);
-myCanvas.lineTo(211,226);
-myCanvas.lineTo(214,224);
-myCanvas.lineTo(216,227);
-myCanvas.lineTo(214,254);
-myCanvas.lineTo(211,273);
-myCanvas.lineTo(210,283);
-myCanvas.lineTo(209,288);
-myCanvas.lineTo(209,292);
-myCanvas.lineTo(210,289);
-myCanvas.lineTo(216,273);
-myCanvas.lineTo(225,251);
-myCanvas.lineTo(233,236);
-myCanvas.lineTo(241,229);
-myCanvas.lineTo(245,230);
-myCanvas.lineTo(246,244);
-myCanvas.lineTo(246,261);
-myCanvas.lineTo(248,273);
-myCanvas.lineTo(251,278);
-myCanvas.lineTo(255,280);
-myCanvas.lineTo(263,277);
-myCanvas.lineTo(280,263);
-myCanvas.lineTo(314,235);
-myCanvas.lineTo(334,224);
-myCanvas.lineTo(351,218);
-myCanvas.lineTo(362,215);
-myCanvas.lineTo(370,215);
-myCanvas.lineTo(373,216);
-myCanvas.lineTo(374,217);
-myCanvas.lineTo(374,217);
-myCanvas.moveTo(197,211);
-myCanvas.lineTo(197,211);
-myCanvas.lineTo(197,211);
-myCanvas.lineTo(197,211);
-myCanvas.lineTo(210,207);
-myCanvas.lineTo(224,200);
-myCanvas.lineTo(253,185);
-myCanvas.lineTo(268,176);
-</script>
+ <canvas id="myCanvas" width="200" height="100"></canvas>
+      <script type="text/javascript">
+      var c = document.getElementById("myCanvas");
+      var ctx = c.getContext("2d");
+      ctx.moveTo(0, 0);
+      ctx.lineTo(200, 100);
+      ctx.stroke();
+      </script>
+
+      <script type="text/javascript">
+      var c = document.getElementById("myCanvas");
+      var ctx = c.getContext("2d");
+      ctx.beginPath();
+      ctx.arc(95, 50, 40, 0, 2 * Math.PI);
+      ctx.stroke();
+      </script>
+
+      <script type="text/javascript">
+      var c = document.getElementById("myCanvas");
+      var ctx = c.getContext("2d");
+      ctx.font = "54px Arial";
+      ctx.fillText("Hi Hi Hi Hi Hi", 10, 50);
+      </script>
+
+      <script type="text/javascript">
+       var c = document.getElementById("myCanvas");
+       var ctx = c.getContext("2d");
+       ctx.font = "75px 'Fira Sans'";
+       ctx.strokeText("Hollerrrr", 50, 50);
+
+      </script>
 
 
   </body>
