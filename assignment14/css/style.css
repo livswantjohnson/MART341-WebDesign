@@ -3,10 +3,6 @@ html {font-size: 75px;
 
 @import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@100&family=Montserrat:wght@300&display=swap');
 
-.background-image {background: url(./images/geese.jpg);
-  background-repeat: no-repeat;
-  background-size: contain;}
-
 .body-text  {width: 35% ;
              height: 500px ;
              border: 6px ;
@@ -24,7 +20,7 @@ html {font-size: 75px;
 h1 {font-size: 100%;
     color: rgb(255, 226, 224);
     text-align: justify;
-    display: inline-block;
+    display: block;
     font-family: 'Fira Sans', 'Helvetica', sans-serif;
     font-weight: 100;}
 
