@@ -78,13 +78,15 @@ p {font-size: 100%;
 
 .menu-item {
     margin: auto;
-    padding: 0.45em;
+    padding: 0.35em;
     min-width: 75px;
-    font-size: 15pt;
+    font-size: 13pt;
     color: rgb(255, 226, 224);
     background-color: rgb(195, 128, 1);
     line-height: 2.1em;
      display: inline-block;
+     font-family: 'Fira Sans', 'Helvetica', sans-serif;
+     font-weight: 100;
 }
 
 .menu-item:hover {
