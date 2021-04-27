@@ -65,8 +65,8 @@ p {font-size: 100%;
                 font-weight: 100;
                 text-align: left ;
                 }
-.bgimage {z-index: 1;
-          }
-#home {background-image:url('kitchen.jpg'));
-       background-size: 100%;
-        background-repeat: no-repeat;}
+.bgimage {
+  position:absolute;
+background-color:rgb(255, 226, 224);
+z-index:1;
+}
