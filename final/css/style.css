@@ -1,0 +1,66 @@
+html {font-size: 75px;
+      width: 100%}
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@100&family=Montserrat:wght@300&display=swap');
+
+.body-text  {width: 35% ;
+             height: 500px ;
+             border: 6px ;
+             padding: 20px ;
+             margin: inherit ;
+             background-color: rgb(195, 128, 1);
+             font-size: 100%;
+             color: rgb(255, 226, 224);
+             overflow: scroll;
+             display: inline;
+             position:relative ;
+             float: left ;
+             }
+
+h1 {font-size: 100%;
+    color: rgb(255, 226, 224);
+    text-align: center;
+    display: block;
+    font-family: 'Fira Sans', 'Helvetica', sans-serif;
+    font-weight: 100;
+    background-color: }
+
+p {font-size: 100%;
+   text-align: justify;
+   font-family: font-family: 'Montserrat', 'Georgia', sans-serif;}
+
+
+.image {width:60% ;
+        padding: 10px;
+        margin: auto ;
+        display: inline;
+        float: right ;
+        z-index:1}
+
+.navbar {text-align: center;
+         position: fixeds;
+         text-transform: uppercase;
+         font-family: 'Fira Sans', 'Helvetica', sans-serif;
+          color:rgb(255, 226, 224) ;
+          }
+
+.menu-item {
+    margin: auto;
+    padding: 0.25em;
+    min-width: 75px;
+    font-size: 10pt;
+    color: #fff;
+    background-color: rgb(195, 128, 1);
+    line-height: 2.1em;
+     display: inline-block;
+}
+
+.menu-item:hover {
+    background-color: rgb(255, 226, 224);
+    color: rgb(195, 128, 1);
+}
+
+.services-text {font-family: 'Fira Sans', 'Helvetica', sans-serif;
+                font-weight: 100;
+                text-align: left ;
+                }
