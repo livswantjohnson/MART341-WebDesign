@@ -60,6 +60,11 @@ p {font-size: 100%;
           color:rgb(255, 226, 224) ;
           z-index: 5}
 
+.center {text-align: center;
+         position: fixed;
+         z-index:5
+         }          
+
 .menu-item {
     margin: auto;
     padding: 0.25em;
