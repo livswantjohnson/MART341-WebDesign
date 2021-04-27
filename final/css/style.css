@@ -8,12 +8,13 @@ html {font-size: 75px;
              border: 6px ;
              padding: 20px ;
              margin-left: 4% ;
+             margin-top: 4%
              background-color: rgb(195, 128, 1);
              font-size: 100%;
              color: rgb(255, 226, 224);
              overflow: scroll;
              display: inline;
-             position:relative ;
+             position: relative;
              float: left ;
              }
 
