@@ -53,7 +53,7 @@ p {font-size: 100%;
         float: right ;
         z-index:1}
 
-.navbar {margin: 30%;
+.navbar {margin-left: 32%;
          text-align: center;
          position: fixed;
          text-transform: uppercase;
