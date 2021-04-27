@@ -52,14 +52,14 @@ p {font-size: 100%;
         margin-top: 10%;
         display: inline;
         float: right ;
-        z-index:2 }
+        z-index:3 }
 
 #wheel {width:46% ;
         margin-left: 5%;
         margin-top: 10%;
         display: inline;
         float: right ;
-        z-index:2 }      
+        z-index:3 }      
 
 .navbar {margin-left: 36%;
          margin-top: 4%;
