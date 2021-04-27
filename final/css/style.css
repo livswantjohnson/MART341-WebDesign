@@ -53,7 +53,8 @@ p {font-size: 100%;
         float: right ;
         z-index:1}
 
-.navbar {text-align: center;
+.navbar {margin: 30%;
+         text-align: center;
          position: fixed;
          text-transform: uppercase;
          font-family: 'Fira Sans', 'Helvetica', sans-serif;
@@ -63,7 +64,7 @@ p {font-size: 100%;
 .center {text-align: center;
          position: fixed;
          z-index:5
-         }          
+         }
 
 .menu-item {
     margin: auto;
