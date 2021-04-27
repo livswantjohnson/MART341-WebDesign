@@ -78,10 +78,10 @@ p {font-size: 100%;
 
 .menu-item {
     margin: auto;
-    padding: 0.25em;
+    padding: 0.45em;
     min-width: 75px;
-    font-size: 10pt;
-    color: #fff;
+    font-size: 15pt;
+    color: rgb(255, 226, 224);
     background-color: rgb(195, 128, 1);
     line-height: 2.1em;
      display: inline-block;
