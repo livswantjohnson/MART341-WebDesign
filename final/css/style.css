@@ -15,9 +15,25 @@ html {font-size: 75px;
              color: rgb(255, 226, 224);
              overflow: scroll;
              display: inline;
-             position: relative;
+             position: fixed;
              float: left ;
              z-index: 4}
+
+             .body-text-about  {width: 30% ;
+                          height: 400px ;
+                          border: 6px ;
+                          padding: 20px ;
+                          margin-left: 4% ;
+                          margin-right: 4%;
+                          margin-top: 4%;
+                          background-color: rgb(255, 226, 224);
+                          font-size: 100%;
+                          color: rgb(227, 167, 6);
+                          overflow: scroll;
+                          display: inline;
+                          position: fixed;
+                          float: left ;
+                          z-index: 4}
 
 .body-text-home  {width: 30% ;
                  height: 50px ;
@@ -30,7 +46,7 @@ html {font-size: 75px;
                  color: rgb(255, 226, 224);
                  overflow: scroll;
                  display: inline;
-                 position: relative;
+                 position: fixed;
                  float: right ;
                 z-index: 4}
 
