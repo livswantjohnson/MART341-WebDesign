@@ -61,6 +61,16 @@ p {font-size: 100%;
           color:rgb(255, 226, 224) ;
           z-index: 5}
 
+          .navbar-home {margin-left: 40%;
+                   margin-top: 5%;
+                   text-align: center;
+                   position: fixed;
+                   text-transform: uppercase;
+                   font-family: 'Fira Sans', 'Helvetica', sans-serif;
+                    color:rgb(255, 226, 224) ;
+                    z-index: 5}
+
+
 .center {text-align: center;
          position: fixed;
          z-index:5
