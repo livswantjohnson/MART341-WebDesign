@@ -16,7 +16,7 @@ html {font-size: 75px;
              display: inline;
              position: relative;
              float: left ;
-             }
+             z-index: 4}
 
 h1 {font-size: 100%;
     color: rgb(255, 226, 224);
@@ -43,7 +43,7 @@ p {font-size: 100%;
          text-transform: uppercase;
          font-family: 'Fira Sans', 'Helvetica', sans-serif;
           color:rgb(255, 226, 224) ;
-          }
+          z-index: 5}
 
 .menu-item {
     margin: auto;
@@ -65,7 +65,8 @@ p {font-size: 100%;
                 font-weight: 100;
                 text-align: left ;
                 }
-
+.bgimage {z-index: 1;
+          }
 #home {background-image:url('kitchen.jpg'));
        background-size: 100%;
         background-repeat: no-repeat;}
