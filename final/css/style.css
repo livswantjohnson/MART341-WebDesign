@@ -47,8 +47,8 @@ p {font-size: 100%;
    font-family: font-family: 'Montserrat', 'Georgia', sans-serif;}
 
 
-.image {width:60% ;
-        margin: auto;
+#liv {width:46% ;
+        margin: 5%;
         display: inline;
         float: right ;
         z-index:2}
