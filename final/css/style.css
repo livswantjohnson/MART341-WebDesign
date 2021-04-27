@@ -53,22 +53,14 @@ p {font-size: 100%;
         float: right ;
         z-index:1}
 
-.navbar {margin-left: 32%;
+.navbar {margin-left: 36%;
+         margin-top: 4%;
          text-align: center;
          position: fixed;
          text-transform: uppercase;
          font-family: 'Fira Sans', 'Helvetica', sans-serif;
           color:rgb(255, 226, 224) ;
           z-index: 5}
-
-          .navbar-home {margin-left: 36%;
-                   margin-top: 4%;
-                   text-align: center;
-                   position: fixed;
-                   text-transform: uppercase;
-                   font-family: 'Fira Sans', 'Helvetica', sans-serif;
-                    color:rgb(255, 226, 224) ;
-                    z-index: 5}
 
 
 .center {text-align: center;
