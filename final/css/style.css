@@ -18,6 +18,21 @@ html {font-size: 75px;
              float: right ;
              z-index: 4}
 
+.body-text-home  {width: 30% ;
+                 height: 50px ;
+                 border: 6px ;
+                 padding: 20px ;
+                 margin-left: 4% ;
+                 margin-top: 4%;
+                 background-color: rgb(195, 128, 1);
+                 font-size: 100%;
+                 color: rgb(255, 226, 224);
+                 overflow: scroll;
+                 display: inline;
+                 position: relative;
+                 float: right ;
+                z-index: 4}
+
 h1 {font-size: 100%;
     color: rgb(255, 226, 224);
     text-align: center;
@@ -39,7 +54,7 @@ p {font-size: 100%;
         z-index:1}
 
 .navbar {text-align: center;
-         position: fixeds;
+         position: fixed;
          text-transform: uppercase;
          font-family: 'Fira Sans', 'Helvetica', sans-serif;
           color:rgb(255, 226, 224) ;
