@@ -48,10 +48,10 @@ p {font-size: 100%;
 
 
 #liv {width:46% ;
-        margin-left: 3%;
+        margin-left: 5%;
         margin-top: 10%;
         display: inline;
-        float: right ;
+        float: left ;
         z-index:2}
 
 .navbar {margin-left: 36%;
