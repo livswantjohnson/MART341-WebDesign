@@ -23,7 +23,7 @@ html {font-size: 75px;
                           height: 400px ;
                           border: 6px ;
                           padding: 20px ;
-                          margin-left: 4% ;
+                          margin-left: 7% ;
                           margin-right: 4%;
                           margin-top: 10%;
                           background-color: rgb(255, 226, 224);
@@ -63,19 +63,30 @@ p {font-size: 100%;
    font-family: font-family: 'Montserrat', 'Georgia', sans-serif;}
 
 
-#liv {width:46% ;
-        margin-left: 5%;
-        margin-top: 10%;
-        display: inline;
-        float: right ;
-        z-index:4 }
+#liv {width:43% ;
+        margin-left: 46%;
+        margin-top: 12%;
+        margin-right: 7%;
+        margin-bottom: 5%;
+        display: inline-block;
+        float: inherit ;
+        position: fixed;
+        z-index: 4 }
 
 #wheel {width:36% ;
-        margin-left: 5%;
-        margin-top: 10%;
+        margin-top: 60%;
+        margin-left: 55%;
         display: inline;
-        float: right ;
+        position: absolute;
+        text-align: right ;
         z-index:3 }
+
+#geese {width: 56% ;
+        margin-top: 62% ;
+        display: inline;
+         position: absolute;
+        float: left;
+         z-index: 2;}
 
 .navbar {margin-left: 36%;
          margin-top: 4%;
@@ -86,12 +97,14 @@ p {font-size: 100%;
           color:rgb(255, 226, 224) ;
           z-index: 5}
 
-
-.center {text-align: center;
+#services-navbar {margin-left: 40%;
+         margin-top: 4%;
+         text-align: center;
          position: fixed;
-         z-index:5
-         }
-
+         text-transform: uppercase;
+         font-family: 'Fira Sans', 'Helvetica', sans-serif;
+          color:rgb(255, 226, 224) ;
+          z-index: 5}
 .menu-item {
     margin: auto;
     padding: 0.35em;
